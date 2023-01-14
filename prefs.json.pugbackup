@@ -1,0 +1,49 @@
+{
+    "version": 1,
+    "applicationVersion": "0.5.1.2-4398",
+    "sfxVol": 0.5,
+    "ambSfxVol": 0.5,
+    "bgmVol": 0.5,
+    "vsync": false,
+    "limitColors": false,
+    "brightness": 0.20000000298023225,
+    "fullscreen": true,
+    "fullscreenOption": 0,
+    "vibration": true,
+    "faceMouseDirection": true,
+    "squashBugs": true,
+    "flashingLights": true,
+    "screenShakes": true,
+    "lang": "th",
+    "tarecord": 599940.0,
+    "debugHudFlags": 0,
+    "playerId": 843261522,
+    "showDamageNumbers": true,
+    "showCharacterNames": true,
+    "showMinimap": true,
+    "playerGuid": "01932c19b41d3bcb50ae0cfb3553ea12",
+    "saveEnabled": true,
+    "streamerMode": false,
+    "showKeyHints": true,
+    "shadowQuality": 1,
+    "reflections": true,
+    "targetFrameRate": -1,
+    "allowJoinByPresence": true,
+    "lightQuality": 2,
+    "hideInGameUI": false,
+    "particleQuality": 1,
+    "previouslyJoinedServers": [
+        {
+            "guid": "6c81ae6524c23cec2104f3da5044c966",
+            "name": "โลกน้อยๆของน้องตู่",
+            "gameId": "beVD5SFFe84REbAFrLSDZebPKd9M",
+            "lastJoin": "01/09/2023 08:06:52"
+        },
+        {
+            "guid": "e53e8d0424208c2584af036a2738a7c2",
+            "name": "Core Keeper",
+            "gameId": "unrdvTEDjMsdMzvICvLzVRcLMkVv",
+            "lastJoin": "01/07/2023 11:40:03"
+        }
+    ]
+}
